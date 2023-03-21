@@ -91,6 +91,7 @@ section p {
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 0.5rem;
+    width: 100%;
 }
 
 .images img {
