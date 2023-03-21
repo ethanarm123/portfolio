@@ -32,7 +32,6 @@ nav ul li a {
     text-decoration: none;
     padding: 6px;
     border-radius: 20px;
-    font-size: 1.5rem;
 }
 
 head {
@@ -136,7 +135,6 @@ section p {
         text-decoration: none;
         padding: 6px;
         border-radius: 20px;
-        font-size: 1.5rem;
     }
 
     nav ul li a:hover,
