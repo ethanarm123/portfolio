@@ -35,7 +35,7 @@ nav ul li a {
     border-radius: 20px;
 }
 
-header {
+head {
     position: absolute;
     top: 0;
     left: 0;
@@ -50,6 +50,7 @@ header {
 
 footer {
     text-align: center;
+    color: #fff;
 }
 
 h1 {
@@ -61,10 +62,11 @@ h1 {
 main {
     padding: 3rem;
     text-align: center;
+    color: #fff;
 }
 
 body {
-    min-height: 797vh;
+    min-height: 100vh;
     background: linear-gradient(#2b1055, #7597de)
 }
 
@@ -100,7 +102,7 @@ section p {
         padding: 0rem;
     }
     
-    header {
+    head {
         padding: 1.2rem;
     }
     
