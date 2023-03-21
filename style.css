@@ -7,7 +7,6 @@
 
 nav {
     background: linear-gradient(to right, #4749f3, #7597de);
-    font-size: 24px;
 }
 
 nav ul {
@@ -112,12 +111,9 @@ section p {
         font-size: 2rem;
         color: #fff;
     }
+
     title{
         color: #fff;
-    }
-
-    nav{
-        font-size: 1.5rempx;
     }
     
     nav ul {
