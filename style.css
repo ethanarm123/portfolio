@@ -32,6 +32,13 @@ nav ul li a:hover {
 }
 
 header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px, 100px;
+    display: flex;
+    justify-content: space-between;
     text-align: center;
     padding: 0rem;
     
@@ -50,6 +57,10 @@ h1 {
 main {
     padding: 3rem;
     text-align: center;
+}
+body {
+    min-height: 797vh;
+    background: linear-gradient(2b1055, #7597de)
 }
 
 section {
