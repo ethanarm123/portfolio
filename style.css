@@ -7,7 +7,6 @@
 
 nav {
     background: linear-gradient(to right, #6645d1, #405fda);
-    
 }
 
 nav ul {
@@ -16,12 +15,13 @@ nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1rem;
 }
 
 nav ul li:hover,
 nav ul li:active {
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1rem;
     list-style: none;
     margin-left: 20px;
     margin-bottom: 0.5rem;
@@ -31,7 +31,7 @@ nav ul li:active {
 nav ul li a {
     color: #F6F6F6;
     text-decoration: none;
-    padding: 6px, 15px;
+    padding: 6px;
     border-radius: 20px;
 }
 
@@ -62,9 +62,10 @@ main {
     padding: 3rem;
     text-align: center;
 }
+
 body {
     min-height: 797vh;
-    background: linear-gradient(2b1055, #7597de)
+    background: linear-gradient(#2b1055, #7597de)
 }
 
 section {
@@ -113,6 +114,7 @@ section p {
         display: flex;
         justify-content: center;
         align-items: center;
+        font-size: 1rem;
     }
     
     nav ul li {
@@ -123,7 +125,7 @@ section p {
 
     nav ul li a {
         text-decoration: none;
-        padding: 6px, 15px;
+        padding: 6px;
         border-radius: 20px;
     }
 
