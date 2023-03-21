@@ -6,7 +6,7 @@
 }
 
 nav {
-    background: linear-gradient(to right, #6645d1, #405fda);
+    background: linear-gradient(to "down", #6645d1, #405fda);
 }
 
 nav ul {
@@ -67,7 +67,7 @@ main {
 
 body {
     min-height: 100vh;
-    background: linear-gradient(#2b1055, #7597de)
+    background: linear-gradient(#2b1055, #7597de);
 }
 
 section {
