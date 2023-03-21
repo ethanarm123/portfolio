@@ -6,7 +6,7 @@
 }
 
 nav {
-    background: linear-gradient(to right, #2b1055, #7597de);
+    background: linear-gradient(to right, #4749f3, #7597de);
 }
 
 nav ul {
@@ -24,7 +24,6 @@ nav ul li:active {
     font-size: 1rem;
     list-style: none;
     margin-left: 20px;
-    margin-bottom: 0.5rem;
     background: #2b1055;
 }
 
@@ -109,6 +108,9 @@ section p {
     
     h1 {
         font-size: 2rem;
+        color: #fff;
+    }
+    title{
         color: #fff;
     }
     
