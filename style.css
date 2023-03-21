@@ -20,18 +20,17 @@ nav ul {
 nav ul li:hover,
 nav ul li:active {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 2rem;
     list-style: none;
     margin-left: 20px;
     margin-bottom: 0.5rem;
-    background: #fff;
-    color: #2b1055;
+    background: #2b1055;
 }
 
 nav ul li a {
     color: #F6F6F6;
     text-decoration: none;
-    padding: 6px 15px;
+    padding: 6px, 15px;
     border-radius: 20px;
 }
 
