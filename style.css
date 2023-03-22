@@ -87,9 +87,11 @@ section {
     position: absolute;
     color: #fff;
     white-space: nowrap;
-    font-size: 7.5vw;
-    font-size: 7.5em;
     z-index: 9;
+}
+
+h4 {
+    font-size: 7.5vw;
 }
 
 section img {
