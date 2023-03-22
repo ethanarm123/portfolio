@@ -97,6 +97,7 @@ section::before {
 
 #text {
     position: absolute;
+    right: -300px;
     color: #fff;
     white-space: nowrap;
     z-index: 9;
