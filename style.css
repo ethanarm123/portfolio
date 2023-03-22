@@ -72,6 +72,7 @@ main {
 body {
     min-height: 100vh;
     overflow-x: hidden;
+    overflow-y: hidden;
     background: linear-gradient(#4749F3, #7597de);
 }
 
