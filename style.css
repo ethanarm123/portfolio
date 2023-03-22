@@ -115,6 +115,10 @@ section p {
         color: #fff;
     }
     
+    nav {
+        background: linear-gradient(180deg, #4749f3, #7597de);
+    }
+
     nav ul {
         flex-direction: column;
         padding: 1.5rem;
