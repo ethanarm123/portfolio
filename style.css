@@ -118,6 +118,10 @@ section img {
     object-fit: cover;
 }
 
+section img#stars {
+    width: 100%
+}
+
 section img#moon {
     mix-blend-mode: screen;
 }
@@ -199,10 +203,6 @@ section p {
     nav ul li a.active {
         background: #fff;
         color: #2b1055;
-    }
-    
-    section img#moon {
-        mix-blend-mode: screen;
     }
 
     .images {
