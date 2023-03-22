@@ -25,7 +25,7 @@
         <img src = "stars.png" id="stars">
         <img src = "moon.png" id="moon">
         <img src = "mountains_behind.png" id="mountains_behind">
-        <h4 id="text">Night Owl</h4>
+        <!-- <h4 id="text">Night Owl</h4> -->
         <img src = "mountains_front.png" id="mountains_front">
     </section>
     <script>
@@ -33,16 +33,16 @@
         let moon = document.getElementById('moon');
         let mountains_behind = document.getElementById('mountains_behind');
         let mountains_front = document.getElementById('mountains_front');
-        let text = document.getElementById('text');
+        // let text = document.getElementById('text');
 
         window.addEventListener('scroll', function(){
             let value = window.scrollY;
-            stars.style.left = value * 0.05 + 'px';
+            stars.style.bottom = value * 0.2 + 'px';
             moon.style.top = value * 0.8 + 'px';
             mountains_behind.style.top = value * 0.5 + 'px';
             mountains_front.style.top = value * 0. + 'px';
-            text.style.top = value * 2 + 'px';
-            text.style.marginTop = value * 0.3 + 'px';
+            // text.style.top = value * 2 + 'px';
+            // text.style.marginTop = value * 0.3 + 'px';
         })
     </script>
 

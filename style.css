@@ -207,6 +207,10 @@ section p {
         color: #2b1055;
     }
 
+    section img#moon {
+        mix-blend-mode: screen;
+    }
+
     .images {
         flex-direction: column;
         margin-bottom: 0.5rem;
