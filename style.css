@@ -99,7 +99,7 @@ section::before {
 
 #text {
     position: absolute;
-    right: -130px;
+    right: -60px;
     color: #fff;
     white-space: nowrap;
     z-index: 9;
