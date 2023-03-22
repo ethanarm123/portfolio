@@ -71,6 +71,7 @@ main {
 
 body {
     min-height: 100vh;
+    overflow-x: hidden;
     background: linear-gradient(#4749F3, #7597de);
 }
 
@@ -90,7 +91,7 @@ section::before {
     bottom: 0;
     width: 100%;
     height: 100px;
-    background: linear-gradient(to top, #7597de, transparent);
+    background: linear-gradient(to top, #6176E7, transparent);
     z-index: 1000;
 }
 
