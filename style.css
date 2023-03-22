@@ -45,6 +45,11 @@ head {
     padding: 1rem;
 }
 
+header {
+    padding-bottom: 2rem;
+    font-size: 1.5rem;
+}
+
 footer {
     text-align: center;
     color: #fff;
