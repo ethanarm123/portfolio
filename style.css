@@ -124,6 +124,7 @@ section img#stars {
 
 section img#moon {
     mix-blend-mode: screen;
+    z-index: 2;
 }
 
 section img#mountains_front {
