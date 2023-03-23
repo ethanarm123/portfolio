@@ -209,9 +209,9 @@ section p {
         color: #2b1055;
     }
 
-    section img#moon {
+    /* section img#moon {
         mix-blend-mode: screen;
-    }
+    } */
 
     .images {
         flex-direction: column;
