@@ -120,11 +120,10 @@ section img#stars {
     width: 100%
 }
 
-section img#moon {
+/* section img#moon {
     mix-blend-mode: screen;
     z-index: 2;
-    transform: translate(-50%, -50%);
-}
+} */
 
 section img#mountains_front {
     z-index: 10;
@@ -205,9 +204,9 @@ section p {
         color: #2b1055;
     }
 
-    section img#moon {
+    /* section img#moon {
         mix-blend-mode: screen;
-    }
+    } */
 
     .images {
         flex-direction: column;
