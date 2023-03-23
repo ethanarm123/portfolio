@@ -80,7 +80,6 @@ section {
     position: relative;
     width: 100%;
     height: 100vh;
-    padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -125,6 +124,7 @@ section img#stars {
 section img#moon {
     mix-blend-mode: screen;
     z-index: 2;
+    transform: translate(-50%, -50%);
 }
 
 section img#mountains_front {
