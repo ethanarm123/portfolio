@@ -123,6 +123,7 @@ section img#stars {
 }
 
 section img#moon {
+    margin-top: 20px;
     mix-blend-mode: screen;
     z-index: 2;
 }
