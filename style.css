@@ -97,7 +97,7 @@ section::before {
     width: 100%;
     height: 100px;
     background: linear-gradient(to top, #6176E7, transparent);
-    z-index: 10;
+    z-index: 11;
 }
 
 #text {
@@ -130,7 +130,7 @@ section img#stars {
 } */
 
 section img#mountains_front {
-    z-index: 11;
+    z-index: 10;
     position: top;
 }
 
