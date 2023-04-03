@@ -120,10 +120,6 @@ section img {
     object-fit: cover;
 }
 
-section img#stars {
-    width: 100%
-}
-
 /* section img#moon {
     mix-blend-mode: screen;
     z-index: 2;
