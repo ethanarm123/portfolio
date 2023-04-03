@@ -131,8 +131,6 @@ section img#stars {
 
 section img#mountains_front {
     z-index: 10;
-    position: relative;
-    top: 0;
 }
 
 section h2 {
